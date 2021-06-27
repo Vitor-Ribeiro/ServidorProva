@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1f66e3fe-1de7-4e30-bb91-1ed3f42ef4e9",
+      "name": "Vito",
+      "email": "vittoribeiro12@gmail.com",
+      "empresa": "Senac",
+      "cpf": "12502702941"
+    },
+    {
+      "id": "fe048891-a4bf-49d9-9506-948c8a573087",
+      "name": "asd",
+      "email": "asd",
+      "empresa": "asd",
+      "cpf": "2"
+    }
+  ]
+}
